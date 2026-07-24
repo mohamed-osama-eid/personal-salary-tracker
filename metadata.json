@@ -1,0 +1,6 @@
+{
+  "name": "Payment Tracker",
+  "description": "Professional payment tracker with 22/8 split logic calculation, 30-day milestone tracker, color-coded shifts, and HR-ready PDF report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
