@@ -29,19 +29,19 @@
 
 | Dashboard | Shift logging |
 | --- | --- |
-| ![Dashboard showing cycle progress, net payout, and session analysis](images/7.jpeg) | ![Onsite shift logging form](images/5.jpeg) |
+| ![Dashboard showing cycle progress, net payout, and session analysis](7.jpeg) | ![Onsite shift logging form](5.jpeg) |
 
 | Work-from-home sessions | Cycle calendar and recent logs |
 | --- | --- |
-| ![Work-from-home session logging form](images/4.jpeg) | ![Calendar view and recent shift logs](images/6.jpeg) |
+| ![Work-from-home session logging form](4.jpeg) | ![Calendar view and recent shift logs](6.jpeg) |
 
 | Full shift history | Salary and reward settings |
 | --- | --- |
-| ![All active cycle shift records](images/3.jpeg) | ![Core contract valuation settings](images/1.jpeg) |
+| ![All active cycle shift records](3.jpeg) | ![Core contract valuation settings](1.jpeg) |
 
 | Payment-cycle management |
 | --- |
-| ![Registered billing cycles and create-cycle form](images/2.jpeg) |
+| ![Registered billing cycles and create-cycle form](2.jpeg) |
 
 ## How the cycle is organized
 
